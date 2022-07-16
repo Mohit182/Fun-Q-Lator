@@ -1,7 +1,7 @@
 {
-  "main.css": "/Fun-Q-Lator/static/css/main.cb4576be.chunk.css",
-  "main.js": "/Fun-Q-Lator/static/js/main.c01fb26e.chunk.js",
-  "main.js.map": "/Fun-Q-Lator/static/js/main.c01fb26e.chunk.js.map",
+  "main.css": "/Fun-Q-Lator/static/css/main.488ea7ea.chunk.css",
+  "main.js": "/Fun-Q-Lator/static/js/main.18d42182.chunk.js",
+  "main.js.map": "/Fun-Q-Lator/static/js/main.18d42182.chunk.js.map",
   "static/css/1.264e4ded.chunk.css": "/Fun-Q-Lator/static/css/1.264e4ded.chunk.css",
   "static/js/1.feba993b.chunk.js": "/Fun-Q-Lator/static/js/1.feba993b.chunk.js",
   "static/js/1.feba993b.chunk.js.map": "/Fun-Q-Lator/static/js/1.feba993b.chunk.js.map",
@@ -13,9 +13,9 @@
   "static/media/underweight.png": "/Fun-Q-Lator/static/media/underweight.2e679746.png",
   "static/media/healthy.png": "/Fun-Q-Lator/static/media/healthy.aaca6e71.png",
   "static/media/overweight.png": "/Fun-Q-Lator/static/media/overweight.7ba81ac3.png",
+  "static/css/main.488ea7ea.chunk.css.map": "/Fun-Q-Lator/static/css/main.488ea7ea.chunk.css.map",
   "static/css/1.264e4ded.chunk.css.map": "/Fun-Q-Lator/static/css/1.264e4ded.chunk.css.map",
-  "static/css/main.cb4576be.chunk.css.map": "/Fun-Q-Lator/static/css/main.cb4576be.chunk.css.map",
   "index.html": "/Fun-Q-Lator/index.html",
-  "precache-manifest.b05b91bb383e53b076e971ede8b1ea4f.js": "/Fun-Q-Lator/precache-manifest.b05b91bb383e53b076e971ede8b1ea4f.js",
+  "precache-manifest.75e96cd54473d40552d56e661efc7513.js": "/Fun-Q-Lator/precache-manifest.75e96cd54473d40552d56e661efc7513.js",
   "service-worker.js": "/Fun-Q-Lator/service-worker.js"
 }

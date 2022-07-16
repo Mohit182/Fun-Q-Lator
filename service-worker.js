@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Fun-Q-Lator/precache-manifest.b05b91bb383e53b076e971ede8b1ea4f.js"
+  "/Fun-Q-Lator/precache-manifest.75e96cd54473d40552d56e661efc7513.js"
 );
 
 workbox.clientsClaim();

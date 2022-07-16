@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c01fb26ef3665455f56d",
-    "url": "/Fun-Q-Lator/static/css/main.cb4576be.chunk.css"
+    "revision": "18d421829b8e9bd3ded0",
+    "url": "/Fun-Q-Lator/static/css/main.488ea7ea.chunk.css"
   },
   {
-    "revision": "c01fb26ef3665455f56d",
-    "url": "/Fun-Q-Lator/static/js/main.c01fb26e.chunk.js"
+    "revision": "18d421829b8e9bd3ded0",
+    "url": "/Fun-Q-Lator/static/js/main.18d42182.chunk.js"
   },
   {
     "revision": "feba993bef7ae26f9c7e",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Fun-Q-Lator/static/media/overweight.7ba81ac3.png"
   },
   {
-    "revision": "5b769ddeccb2c6388f97c24c47911657",
+    "revision": "e3438fcacdc30998e32244a22770d37d",
     "url": "/Fun-Q-Lator/index.html"
   }
 ];
