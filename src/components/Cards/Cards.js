@@ -4,7 +4,7 @@ import './Cards.css'
 import "bootstrap/dist/css/bootstrap.min.css";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import video1 from '../videos/video6.mp4';
+import video1 from '../../videos/video6.mp4';
 const Cards = () => {
   return (
     <div className="cards">
