@@ -24,15 +24,6 @@ const Cards = () => {
               path="/tipcalc"
               /></ul>
           </Col>
-            {/* <Col>
-            <ul className="cards__items">
-              <CardItem
-              src="images/curcon.png"
-              text="Rates changing up and down? Use this to make your life easier"
-              label="Currency Convertor"
-              path="/currencyconv"
-              /></ul>
-          </Col> */}
           <Col>
           <ul className="cards__items">
               <CardItem
