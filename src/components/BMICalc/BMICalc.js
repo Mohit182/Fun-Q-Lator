@@ -20,13 +20,13 @@ const BMICalc = () => {
         let bmi = (weight/(mheight*mheight))
         setBmi(bmi.toFixed(1))
   
-        if (bmi<24){
+        if (bmi<=18.5){
           setMessage("You are underweight")
         }
-        else if(bmi >24 && bmi < 30){
+        else if(bmi >18.5 && bmi < 25){
           setMessage("You are a healthy weight")
         }
-        else if(bmi>30){
+        else if(bmi>=25){
           setMessage("You are overweight")
         }
   
